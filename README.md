@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-<iframe src="https://giphy.com/embed/5ntdy5Ban1dIY" width="480" height="463" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/coding-5ntdy5Ban1dIY">via GIPHY</a></p>
 
-**gumodi35/gumodi35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![code-coding](https://user-images.githubusercontent.com/80011796/147858122-b2478268-1abb-4c57-a87e-a0ff0c245140.gif)
+
 
 - 🔭 I’m currently working on ...
         I'm doing some projects individually to develop my front-end skills.
