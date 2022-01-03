@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning ...
         I study full-stack front-end & back-end, for now I like to develop on the front-end, I'm also interested in server side technologies.
-        The technologiesd I'm learning are: HTML, CSS, REACT, REDUX, NODE.JS, EXPRESS, POSTGRESQL.
+        The technologiesd I'm learning are: HTML, CSS, JAVASCRIPT, REACT, REDUX, NODE.JS, EXPRESS, POSTGRESQL.
         
 - 👯 I’m looking to collaborate on ...
         I would like to belong to a work team in which I can learn many intersting things and develop my skills with the experience of other people.
