@@ -1,38 +1,51 @@
-### Hi there 👋
+Hi 👋 My name is gualberto
+==========================
+
+Frontend Developer
+------------------
+
+Hola¡ Soy Gualberto, soy tecnico en Informatica y busco desarrollarme como Web Developer específicamente como frontend ya que es algo que me gusta y con el paso del tiempo incursionar al área de Backend, para ser un Full Stack Developer.
+
+* 🌍  I'm based in Puebla, Mexico.
+* ✉️  You can contact me at [gumodi10@gmail.com](mailto:gumodi10@gmail.com)
+* 🧠  I'm learning React, Vue Js, Angular...
+* 🤝  I'm open to collaborating on Con equipos de trabajo que me permitan adquirir experiencia.
+* ⚡  I'm Iron man¡...
+
+### Skills
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vue-colored.svg" width="36" height="36" alt="Vue" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angular-colored.svg" width="36" height="36" alt="Angular" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
 
 
+### Socials
 
-![code-coding](https://user-images.githubusercontent.com/80011796/147858122-b2478268-1abb-4c57-a87e-a0ff0c245140.gif)
+<p align="left"> <a href="https://www.facebook.com/gualbert.monti/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/gumodi35" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/gualbertmonti" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/gualbertomondi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/gualbert-dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/SrGualbert" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
+### Badges
 
-- 🔭 I’m currently working on ...
-        I'm doing some projects individually to develop my front-end skills.
-        This projects include making clones of pages that I like, to practice HTML, CSS, JavaScript & React.
+<b>My GitHub Stats</b>
 
-- 🌱 I’m currently learning ...
-        I study full-stack front-end & back-end, for now I like to develop on the front-end, I'm also interested in server side technologies.
-        The technologiesd I'm learning are: HTML, CSS, JAVASCRIPT, REACT, REDUX, NODE.JS, EXPRESS, POSTGRESQL.
-        
-- 👯 I’m looking to collaborate on ...
-        I would like to belong to a work team in which I can learn many intersting things and develop my skills with the experience of other people.
-        I love remote work but a google-style office sounds great.
+<a href="http://www.github.com/gumodi35"><img src="https://github-readme-stats.vercel.app/api?username=gumodi35&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="gumodi35's GitHub stats" /></a>
 
-- 🤔 I’m looking for help with ...
-        The projects that I would like to develop are applications that serve and solve problen in people's lives.
-        Developing a cryptocurrency is an idea that sounds in my head...
+<a href="http://www.github.com/gumodi35"><img src="https://activity-graph.herokuapp.com/graph?username=gumodi35&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-- 💬 Ask me about ...
-        I'm reinventing myself professionally and personally and programming seems to be the best option.
-        On this trip I literally see and read code day and night... code even in the soup.
+<a href="https://github.com/gumodi35" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gumodi35&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-- 📫 How to reach me: ...
-        At this time you can contactme by email: gumodi10@gmail.com.
-        coming soon for my social networks, Facebook, Youtube, Discord or maybe Twich and Twitter.
+### Support Me
 
-- 😄 Pronouns: ...
-        My friends callme wally or wallas.
-        You can tell me gualberto if you prefer.
-
-- ⚡ Fun fact: ...
-        Well, what I find funny is that in movies hackers always have access in less than a minute, in reality that is not so. Happy Hacking¡¡
-
+<a href="https://www.buymeacoffee.com/gumodi35"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
