@@ -1,7 +1,7 @@
-Hi 👋 My name is gualberto
+Hi 👋 My name is Gualberto 🔰
 ==========================
 
-Frontend Developer
+Frontend Developer 🖥️
 ------------------
 
 Hola¡ Soy Gualberto, soy tecnico en Informatica y busco desarrollarme como Web Developer específicamente como frontend ya que es algo que me gusta y con el paso del tiempo incursionar al área de Backend, para ser un Full Stack Developer.
