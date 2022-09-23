@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gumodi35" alt="gumodi35" /></a> </p>
 
-- 🔭 I’m currently working on **portfolio**
+- 🔭 I’m currently working like **tutor in coderhouse**
 
-- 🌱 I’m currently learning **React, React Native**
+- 🌱 I’m currently learning **React Js, React Native**
 
 - 👯 I’m looking to collaborate on **Web Development**
 
