@@ -31,7 +31,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gualbertomondi/) 
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](www.tiktok.com/@srgualbertdev) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/srgualbertdev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SrGualbert) 
 <p align="left">
-<a href="https://codepen.io/codepen.io/eliot10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen.io/eliot10" height="30" width="40" /></a>
+<a href="https://codepen.io/Eliot10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen.io/eliot10" height="30" width="40" /></a>
 <a href="https://dev.to/dev.to/gumodi35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to/gumodi35" height="30" width="40" /></a>
 <!--<a href="https://twitter.com/srgualbert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="srgualbert" height="30" width="40" /></a>
 <!--<a href="https://linkedin.com/in/gualbertomondi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gualbertomondi/" height="30" width="40" /></a>-->
@@ -73,6 +73,7 @@
 -->
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=gumodi35&icon=6&color=1)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
