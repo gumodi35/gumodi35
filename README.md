@@ -1,8 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Gualberto</h1>
 <h3 align="center">A passionate FullStack Developer</h3>
 
+<!--
 ![giphy](https://user-images.githubusercontent.com/80011796/194670880-28ff17ec-9a2a-4709-aa57-efee82ba0e98.gif)
-
+-->
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gumodi35&label=Profile%20views&color=0e75b6&style=flat" alt="gumodi35" /> </p> -->
 
