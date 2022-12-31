@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Gualberto</h1>
-<h3 align="center">A passionate FullStack Developer</h3>
+<h3 align="center">A passionate FullStack Developer student</h3>
 
 <!--
 ![giphy](https://user-images.githubusercontent.com/80011796/194670880-28ff17ec-9a2a-4709-aa57-efee82ba0e98.gif)
