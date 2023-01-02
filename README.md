@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Gualberto</h1>
-<h3 align="center">A passionate FullStack Developer student</h3>
+<h1 align="center">Hola 👋, Soy Gualberto</h1>
+<h3 align="center">Apasionado estudiante FullStack Developer</h3>
 
 <!--
 ![giphy](https://user-images.githubusercontent.com/80011796/194670880-28ff17ec-9a2a-4709-aa57-efee82ba0e98.gif)
@@ -10,19 +10,19 @@
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gumodi35" alt="gumodi35" /></a> </p> -->
 
-- 🔭 I’m currently working like **tutor in coderhouse**
+- 🔭 Colaboro como **tutor in Coderhouse**
 
-- 🌱 I’m currently learning **React Js, React Native**
+- 🌱 Estoy estudianto **Backend**
 
-- 👯 I’m looking to collaborate on **Web Development**
+- 👯 Busco colaborar en un equipo de **Desarrollo de Software**
 
-- 🤝 I’m looking for help with **any project for Devs JR.**
+- 🤝 Busco crecer mi experiencia con **Proyectos de Desarrollo**
 
-- 💬 Ask me about **Fronten, Backend, Azure Cloud, Cibersecurity.**
+- 💬 Algunos temas que me interesan **Frontend, Backend, Azure Cloud, Cibersecurity.**
 
-- 📫 How to reach me **gumodi10@gmail.com**
+- 📫 Ponte en contacto conmigo **gumodi10@gmail.com**
 
-- ⚡ Fun fact **I'm very smart and funny!**
+- ⚡ Me gusta  **Leer, ver series, peliculas, aprender nuevas cosas, la tecnologia**
 
 <h3 align="left">Connect with me:</h3>
 
