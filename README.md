@@ -12,7 +12,7 @@
 
 - 🔭 Colaboro como **tutor in Coderhouse**
 
-- 🌱 Estoy estudianto **Backend**
+- 🌱 Me encuentro estudiando **Backend**
 
 - 👯 Busco colaborar en un equipo de **Desarrollo de Software**
 
