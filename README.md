@@ -10,7 +10,8 @@ const frontendDeveloper = {
       Job : "Tutor at CoderHouse", 
       LookingFor : "collaborate with a software development team ",
       Interests : "Frontend, Backend, Azure Cloud, and Cybersecurity",
-      Hobbies: "reading, watching TV shows and movies, learning new things, and technology"
+      Hobbies: "reading, watching TV shows and movies, 
+                learning new things, and technology"
      }
    }
  
