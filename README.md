@@ -8,9 +8,9 @@ const frontendDeveloper = {
    data: 
      { 
       Job : "Tutor at CoderHouse", 
-      LookingFor : "collaborate with a software development team to grow my experience",
-      Interests : " Some topics that interest me include Frontend, Backend, Azure Cloud, and Cybersecurity",
-      Hobbies: " I enjoy reading, watching TV shows and movies, learning new things, and technology"
+      LookingFor : "collaborate with a software development team ",
+      Interests : "Frontend, Backend, Azure Cloud, and Cybersecurity",
+      Hobbies: "reading, watching TV shows and movies, learning new things, and technology"
      }
    }
  
